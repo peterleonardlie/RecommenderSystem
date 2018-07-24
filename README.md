@@ -13,6 +13,3 @@ build a recommendation system that makes movie recommendations based on user rev
 ## Libraries:
 -   numpy
 -   pandas
-
-
-https://github.com/peterleonardlie/RecommenderSystem.git
